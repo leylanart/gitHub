@@ -6,6 +6,8 @@ public class BirinciGun {
 		System.out.println("Birinci Gun");
 		System.out.println("ikincici Gun");
 		System.out.println("ucuncuci Gun");
+		System.out.println("dorduncu Gun");
+			
 	}
 
 }
