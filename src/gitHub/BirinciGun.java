@@ -9,6 +9,7 @@ public class BirinciGun {
 		System.out.println("dorduncu Gun");
 		System.out.println("Besinci gun");
 		System.out.println("feature branch");
+		System.out.println("Yeni");
 			
 	}
 
